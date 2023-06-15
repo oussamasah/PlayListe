@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288906593024",
+    "project_id": "playlist-5e5ef",
+    "storage_bucket": "playlist-5e5ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288906593024:android:d30d3e7cb054aae890e9e5",
+        "android_client_info": {
+          "package_name": "tn.esen.myloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288906593024-3actlfr3hjvdedikdet486h6g9i2eqko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tn.esen.myloginapp",
+            "certificate_hash": "2fdbd87ca986c712e8e54bad71a7bc4c4a4a69b9"
+          }
+        },
+        {
+          "client_id": "288906593024-m14001ie3kmp4padv68b3h7vfiu3jdee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjEF4QUra1llpkt-TkxZG7koE9MtzU0WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288906593024-m14001ie3kmp4padv68b3h7vfiu3jdee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
